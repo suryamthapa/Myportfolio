@@ -3,6 +3,4 @@
 
 Specifications: HTML, CSS, JS and bootstrap.
 
-Visit site https://suryam.ml
-
-###### Template by BootstrapMade.
+Visit site https://suryamthapa.com.np
